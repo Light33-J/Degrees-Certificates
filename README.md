@@ -1,1 +1,1 @@
-# Get-Sarted
+# Get-Started
